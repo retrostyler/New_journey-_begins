@@ -1,2 +1,2 @@
-# New_journey-_begins
+# New_journey_begins
 hi, this is my first repository
